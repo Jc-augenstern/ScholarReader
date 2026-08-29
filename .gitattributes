@@ -1,0 +1,7 @@
+* text=auto
+
+# Binary assets must never be modified by line-ending normalization.
+*.pdf binary
+*.png binary
+*.ico binary
+*.icns binary
